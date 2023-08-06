@@ -1,0 +1,4 @@
+﻿Kalendarz: Aplikacja będzie prezentować kalendarz z widokiem miesięcznym, tygodniowym lub dziennym, aby użytkownicy mogli łatwo przeglądać swoje wydarzenia w różnych okresach czasu.
+Dodawanie wydarzeń: Użytkownicy będą mieli możliwość dodawania nowych wydarzeń do kalendarza. Podczas dodawania wydarzenia, użytkownik będzie mógł wprowadzić podstawowe informacje, takie jak tytuł, data i godzina rozpoczęcia i zakończenia, lokalizacja, itp.
+Notatki do wydarzeń: Po utworzeniu wydarzenia, użytkownik będzie mógł dodawać tekstowe notatki związane z tym wydarzeniem. Notatki te będą mogły być edytowane w każdej chwili.
+Edycja i usuwanie: Użytkownicy będą mieli możliwość edytowania i usuwania zarówno samych wydarzeń, jak i dodanych do nich notatek.
