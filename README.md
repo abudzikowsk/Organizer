@@ -4,6 +4,9 @@
 
 Organizer is a comprehensive calendar application that helps users manage their events and schedules efficiently. This project, built using .NET 7, includes various features and functionalities implemented in the controller to facilitate event management. It utilizes an in-memory database to store event data temporarily.
 
+![image](https://github.com/abudzikowsk/Organizer/assets/107808781/7a173ace-2c8c-489d-a2b8-32126326610d)
+
+
 ## Features
 
 1. **Calendar Views**
